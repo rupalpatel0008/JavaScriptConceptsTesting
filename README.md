@@ -1,2 +1,0 @@
-# JavaScriptConceptsTesting
-Created with CodeSandbox
